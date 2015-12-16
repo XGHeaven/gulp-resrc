@@ -1,7 +1,7 @@
 Introduce
 ---
 
-a small tool to pipeful, looks like pretty.
+a small tool to pipeful, looks like pretty. for gulp
 
 Example
 ---

@@ -1,10 +1,16 @@
 {
   "name": "gulp-resrc",
   "version": "0.0.0",
-  "description": "pipeful src",
+  "description": "a small tool to pipeful, looks like pretty.",
+  "keywords": ["gulp", "gulp-resrc", "src", "resrc"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/XGHeaven/gulp-resrc",
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/XGHeaven/gulp-resrc"
   },
   "author": "",
   "license": "ISC",
