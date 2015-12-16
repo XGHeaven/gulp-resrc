@@ -1,6 +1,6 @@
 {
   "name": "gulp-resrc",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "a small tool to pipeful, looks like pretty.",
   "keywords": ["gulp", "gulp-resrc", "src", "resrc"],
   "main": "index.js",
